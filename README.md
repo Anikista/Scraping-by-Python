@@ -1,4 +1,4 @@
-# Scraping by Python using modules
+# Scrapping by Python using modules
 Pandas
 Numpy
 Selenium
